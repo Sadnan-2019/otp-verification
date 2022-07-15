@@ -40,7 +40,7 @@ const Navbar = () => {
               {liItems}
               </ul>
             </div>
-            <a class="btn btn-ghost normal-case text-xl">My task</a>
+            <a href='' class="btn btn-ghost normal-case text-xl"><img style={{height:"40px"}} src='https://play-lh.googleusercontent.com/MjrPI6DZ82LTP0Gt6MtJrAruaAUIa4mj029OJDOpwiyNC4HLcqljzDVohqjDWEhoNl0' alt=''/></a>
           </div>
           <div class="navbar-center hidden lg:flex">
             <ul class="menu menu-horizontal p-0">

@@ -10,15 +10,15 @@ const Footer = () => {
   <div className=''>
 
   <Link to="/" className="btn btn-ghost normal-case text-xl" href="">
-          <img
+          <img style={{height:"40px", width:"40px"}}
             className="w-20 rounded-md"
             alt=""
-            src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/178218993/original/4a8fce7a4da367e67c1d7842e04fa817c881ebbf/design-amazing-motorcycle-or-bike-logo.jpg"
+            src="https://play-lh.googleusercontent.com/MjrPI6DZ82LTP0Gt6MtJrAruaAUIa4mj029OJDOpwiyNC4HLcqljzDVohqjDWEhoNl0"
           />
         </Link>
-    <p>Biker World Tools Industries Ltd.<br></br>
+    <p>OTP Industries Ltd.<br></br>
               
-              Providing reliable Tools since 2022</p>
+              Providing reliable OTP since 2022</p>
   </div> 
   <div>
     <span class="footer-title">Social</span> 
